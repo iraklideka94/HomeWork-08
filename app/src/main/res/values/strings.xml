@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HomeWork-08</string>
+    <string name="home_txt"><![CDATA[Listen to the best <br> music everyday <br>  with <font color=\'#37C13D\'> Hearme</font> now!]]></string>
+    <string name="get_started">Get Started</string>
+    <string name="back_arrow">Back arrow</string>
+    <string name="let_s_you_in">Let\'s you in</string>
+    <string name="continue_with_facebook">Continue with Facebook</string>
+    <string name="continue_with_google">Continue with Google</string>
+    <string name="or">OR</string>
+    <string name="sign_in_with_password">Sign in with password</string>
+    <string name="nature_image">nature image</string>
+</resources>
